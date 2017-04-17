@@ -4,7 +4,7 @@
 Find me on [stackoverflow](http://stackoverflow.com/users/537566/tungstenx)
 
 # Gemeenskaplik
-A smal helper library
+A small helper library
 
 ### Powered by
 This README.md was made using VIM
